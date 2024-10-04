@@ -39,11 +39,11 @@
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> 竞赛经历
 
-
+- 无
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
 
-
+- 无
 
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
