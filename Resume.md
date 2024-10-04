@@ -1,4 +1,9 @@
- <center>
+
+
+
+
+
+<center>
      <h1>邵衎杰</h1>
      <div>
          <span>
@@ -8,7 +13,7 @@
          ·
          <span>
              <img src="assets/envelope-solid.svg" width="18px">
-             kanjieshao@qq.com
+             <a href="mailto:kanjieshao@qq.com">kanjieshao@qq.com</a>
          </span>
          ·
          <span>
@@ -22,6 +27,7 @@
          </span>
      </div>
  </center>
+
 
 
 
@@ -52,3 +58,9 @@
 - ★★☆ Linux
 - ★★☆ Docker
 - ☆☆☆ HTML+CSS+JS
+
+
+
+
+
+<!-- 标签logo <link rel="icon" href="https://qipaifeiying.oss-cn-beijing.aliyuncs.com/%E5%9B%BE%E7%89%87/202409261801708.jpg" type="image/jpg"> -->
