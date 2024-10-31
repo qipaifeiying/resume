@@ -29,12 +29,10 @@
  </center>
 
 
-
-
  ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
 
  - 男，2001 年出生
- - 求职意向：计算机图形学，三维点云
+ - 求职意向：计算机图形学，三维点云，C++软件开发
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
@@ -45,19 +43,23 @@
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> 竞赛经历
 
-- 无
+- ICPC 陕西省程序设计竞赛铜牌  2021
+- 团体程序设计天梯赛全国总决赛二等奖 2022
+- RoboCom 机器人开发者大赛 CAIP 编程设计全国总决赛三等奖 2022
+- 十三届蓝桥杯陕西省A组三等奖
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
 
-- 无
+- 点云特征线数据集制作
 
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
 - ★★★ C++、Python
 - ★★★ Git
+- ★★★ LaTeX
 - ★★☆ Linux
 - ★★☆ Docker
-- ☆☆☆ HTML+CSS+JS
+- ★☆☆ HTML+CSS+JS
 
 
 
