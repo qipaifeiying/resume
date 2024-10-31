@@ -58,11 +58,11 @@
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
 - ★★★ C++、Python
+- ★★★ 点云处理库：PCL，Open3D，CGAL，pymesh
 - ★★★ Git
 - ★★★ LaTeX
-- ★★☆ Linux
-- ★★☆ Docker
-- ★☆☆ HTML+CSS+JS
+- ★★☆ Linux，Docker
+- ★★☆ 
 
 
 
