@@ -34,6 +34,7 @@
  ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
 
  - 男，2001 年出生
+ - 政治面貌：中共党员
  - 求职意向：计算机图形学，三维点云，C++软件开发
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
