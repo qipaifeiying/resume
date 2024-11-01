@@ -2,7 +2,6 @@
 
 
 
-
 <center>
      <h1>邵衎杰</h1>
      <div>
@@ -31,6 +30,7 @@
 
 
 
+
  ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
 
  - 男，2001 年出生
@@ -55,6 +55,7 @@
 
 - 特征线提取
 - 非流形网格处理
+- 贝塞尔曲线拟合
 
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
