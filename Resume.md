@@ -23,7 +23,7 @@
          ·
          <span>
              <img src="assets/house-solid.svg" width="18px">
-             <a href="https://qipaifeiying.github.io/">主页</a>
+             <a href="https://blog.csdn.net/qq_45488453?spm=1000.2115.3001.5343">个人博客</a>
          </span>
      </div>
  </center>
