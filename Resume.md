@@ -53,7 +53,8 @@
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
 
-- 点云特征线数据集制作
+- 特征线提取
+- 非流形网格处理
 
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
