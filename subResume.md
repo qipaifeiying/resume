@@ -56,7 +56,6 @@
 - 特征线提取
 - 非流形网格处理
 - 贝塞尔曲线拟合
-- 修复PCL库的bug，并提交PR
 
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
@@ -65,7 +64,7 @@
 - ★★★ Git
 - ★★★ LaTeX
 - ★★☆ Linux，Docker
-- ★★☆ 
+- ☆☆☆ UnrealEngine
 
 
 
