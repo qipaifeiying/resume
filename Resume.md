@@ -57,6 +57,7 @@
 - 非流形网格处理
 - 贝塞尔曲线拟合
 - 修复PCL库的bug，并提交PR
+- 本科毕设OpenGL手写点云可视化
 
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
@@ -71,4 +72,4 @@
 
 
 
-<!-- 标签logo <link rel="icon" href="https://qipaifeiying.oss-cn-beijing.aliyuncs.com/%E5%9B%BE%E7%89%87/202409261801708.jpg" type="image/jpg"> -->
+<!-- 标签logo <link rel="icon" href="https://qipaifeiying.oss-cn-beijing.aliyuncs.com/%E5%9B%BE%E7%89%87/202409261801708.jpg" type="image/jpg"> 放在html文件title标签后面head标签前面 -->
