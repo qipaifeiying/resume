@@ -35,29 +35,39 @@
 
  - 男，2001 年出生
  - 政治面貌：中共党员
- - 求职意向：计算机图形学，三维点云，C++软件开发
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
-- 硕士，西北农林科技大学大学，计算机科学与技术专业，2023.9~2026.7
+- 硕士，西北农林科技大学大学，计算机科学与技术专业，2023.9至今
 - 学士，西北农林科技大学大学，软件工程专业，2019.9~2023.7
-- 绩点：3.5，年级前 20%
+- 绩点：3.1，年级前 50%
 - 通过了 CET4/6 英语等级考试
 
-## <img src="assets/briefcase-solid.svg" width="30px"> 竞赛经历
+## <img src="assets/briefcase-solid.svg" width="30px"> 获奖经历
 
-- ICPC 陕西省程序设计竞赛铜牌  2021
+- 中国研究生数学建模竞赛三等奖，组长  2024.11
 - 团体程序设计天梯赛全国总决赛二等奖 2022
 - RoboCom 机器人开发者大赛 CAIP 编程设计全国总决赛三等奖 2022
+- 年度第三届全国大学生算法设计与编程挑战赛银奖  2021-2022
 - 十三届蓝桥杯陕西省A组三等奖
+- ACM ICPC 陕西省程序设计竞赛铜牌  2021
+- 学年专业二等奖学金  2020-2021
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
 
-- 特征线提取
-- 非流形网格处理
-- 贝塞尔曲线拟合
-- 修复PCL库的bug，并提交PR
-- 本科毕设OpenGL手写点云可视化
+- 特征线提取 2024
+
+- 非流形网格处理 2024
+
+- 校级创新项目（含软著）:基于kinect的NAO机器人 Visual-SLAM和室内导航研究，组长  2021年
+
+- 修复一个PCL库的bug，并提交PR
+
+- [本科毕设基于OpenGL实现的点云可视化](https://gitee.com/qipai-feiying/graduation-project/tree/master/OpenGLPCViewer1)
+
+- [校内实习项目：基于深度学习的人脸识别项目]( https://gitee.com/qipai-feiying/works/tree/master/院企实训/yolov3识别项目)
+
+  采用了游戏中人物建模作为训练数据集，识别一段游戏CG中的人脸
 
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
@@ -66,7 +76,7 @@
 - ★★★ Git
 - ★★★ LaTeX
 - ★★☆ Linux，Docker
-- ★★☆ 
+- ★☆☆ UE5
 
 
 
