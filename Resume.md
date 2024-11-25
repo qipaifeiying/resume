@@ -55,19 +55,10 @@
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
 
-- 特征线提取 2024
-
-- 非流形网格处理 2024
-
+- 修复一个PCL库的bug，并提交PR  2024年
+- [基于OpenGL实现的点云可视化](https://gitee.com/qipai-feiying/graduation-project/tree/master/OpenGLPCViewer1)  2023年
 - 校级创新项目（含软著）:基于kinect的NAO机器人 Visual-SLAM和室内导航研究，组长  2021年
-
-- 修复一个PCL库的bug，并提交PR
-
-- [本科毕设基于OpenGL实现的点云可视化](https://gitee.com/qipai-feiying/graduation-project/tree/master/OpenGLPCViewer1)
-
-- [校内实习项目：基于深度学习的人脸识别项目]( https://gitee.com/qipai-feiying/works/tree/master/院企实训/yolov3识别项目)
-
-  采用了游戏中人物建模作为训练数据集，识别一段游戏CG中的人脸
+- [校内实习项目：基于深度学习的人脸识别项目]( https://gitee.com/qipai-feiying/works/tree/master/院企实训/yolov3识别项目)，采用了游戏中人物建模作为训练数据集，识别一段游戏CG中的人脸
 
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
