@@ -40,7 +40,7 @@
 
 - 硕士，西北农林科技大学大学，计算机科学与技术专业，2023.9至今
 - 学士，西北农林科技大学大学，软件工程专业，2019.9~2023.7
-- 绩点：3.1，年级前 50%
+- 绩点：3.63，年级前 20%
 - 通过了 CET4/6 英语等级考试
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> 获奖经历
@@ -55,18 +55,18 @@
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
 
-- 修复一个PCL库的bug，并提交PR  2024年
-- [基于OpenGL实现的点云符号距离场可视化](https://gitee.com/qipai-feiying/graduation-project/tree/master)  2023年
-- [校内实习项目：基于深度学习的人脸识别项目]( https://gitee.com/qipai-feiying/works/tree/master/院企实训/yolov3识别项目)，采用了游戏中人物建模作为训练数据集，识别一段游戏CG中的人脸 2022年
+- 点云表面曲线网络构建方法研究 2025
+- [基于Qt和OpenGL实现的点云符号距离场可视化](https://gitee.com/qipai-feiying/graduation-project/tree/master)及使用MarchingCube进行表面重建  2023年
 - 校级创新项目（含软著）:基于kinect的NAO机器人 Visual-SLAM和室内导航研究，组长  2021年
+- [校内实习项目：基于深度学习的人脸识别项目]( https://gitee.com/qipai-feiying/works/tree/master/院企实训/yolov3识别项目)，采用了游戏中人物建模作为训练数据集，识别一段游戏CG中的人脸 2022年
+- 修复一个PCL库的bug，并提交PR  2024年
 
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
 - ★★★ C++、Python
-- ★★★ 点云处理库：PCL，Open3D，CGAL，pymesh
-- ★★★ Git
-- ★★★ LaTeX
-- ★★☆ Linux，Docker
+- ★★★ OpenGL
+- ★★☆ 点云处理库：PCL，Open3D，CGAL，pymesh
+- ★★☆ 其它 Git，LaTeX，Linux，Docker，Qt
 - ★☆☆ UE5
 
 
