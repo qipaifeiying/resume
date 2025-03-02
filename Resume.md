@@ -11,10 +11,9 @@
   </div>
   <!-- 右侧照片 -->
   <div>
-    <img src="assets/skj.jpg" width="100px">
+    <img src="assets/skj.jpg" width="80px">
   </div>
 </div>
-
 
  ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
 
