@@ -33,7 +33,7 @@
 - 团体程序设计天梯赛全国总决赛二等奖 2022
 - RoboCom 机器人开发者大赛 CAIP 编程设计全国总决赛三等奖 2022
 - 年度第三届全国大学生算法设计与编程挑战赛银奖  2021-2022
-- 十三届蓝桥杯陕西省A组三等奖
+- 十三届蓝桥杯陕西省A组二等奖 2022
 - ACM ICPC 陕西省程序设计竞赛铜牌  2021
 - 学年专业二等奖学金  2020-2021
 
@@ -49,9 +49,9 @@
 
 - 校级创新项目（含软著）:基于kinect的NAO机器人 Visual-SLAM和室内导航研究，组长  2021年
 
-主要内容：基于kinect相机和SLAM方法实现三维地图的实时重建，主要是SLAM方法的学习和linux下的环境搭建。
+主要内容：基于kinect相机和SLAM方法实现三维地图的实时重建，主要是SLAM方法的学习和linux下的环境搭建，以及kinect相机的api接口使用。
 
-- [校内实习项目：基于深度学习的人脸识别项目]( https://gitee.com/qipai-feiying/works/tree/master/院企实训/yolov3识别项目)，采用了游戏中人物建模作为训练数据集，识别一段游戏CG中的人脸 2022年
+- [校内实习项目：基于深度学习的人脸识别项目]( https://gitee.com/qipai-feiying/works/tree/master/院企实训/yolov3识别项目)，采用了游戏中人物建模作为训练数据集，识别一段游戏CG中的人脸 2022年。
 - 修复一个PCL库的bug，并提交PR  2024年
 
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单

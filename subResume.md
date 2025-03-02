@@ -1,49 +1,34 @@
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <!-- 左侧部分 -->
+  <div style="flex: 1; display: flex; flex-direction: column; justify-content: center; align-items: center;">
+    <h1>邵衎杰</h1>
+    <div>
+      <span><img src="assets/phone-solid.svg" width="18px">18831255593</span> ·
+      <span><img src="assets/envelope-solid.svg" width="18px"><a href="mailto:kanjieshao@qq.com">kanjieshao@qq.com</a></span> ·
+      <span><img src="assets/gitee-svgrepo-com.svg" width="18px"><a href="https://gitee.com/qipai-feiying">qipaifeiying</a></span> ·
+      <span><img src="assets/house-solid.svg" width="18px"><a href="https://blog.csdn.net/qq_45488453">个人博客</a></span>
+    </div>
+  </div>
+  <!-- 右侧照片 -->
+  <div>
+    <img src="assets/skj.jpg" width="80px">
+  </div>
+</div>
 
 
-
-
-<center>
-     <h1>邵衎杰</h1>
-     <div>
-         <span>
-             <img src="assets/phone-solid.svg" width="18px">
-             18831255593
-         </span>
-         ·
-         <span>
-             <img src="assets/envelope-solid.svg" width="18px">
-             <a href="mailto:kanjieshao@qq.com">kanjieshao@qq.com</a>
-         </span>
-         ·
-         <span>
-             <img src="assets/github-brands.svg" width="18px">
-             <a href="https://github.com/qipaifeiying">qipaifeiying</a>
-         </span>
-         ·
-         <span>
-             <img src="assets/house-solid.svg" width="18px">
-             <a href="https://blog.csdn.net/qq_45488453?spm=1000.2115.3001.5343">个人博客</a>
-         </span>
-     </div>
- </center>
-
-
-
-
-
- ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
+ ## <img src="./subResumepic/info-circle-solid.svg" width="30px"> 个人信息 
 
  - 男，2001 年出生
  - 政治面貌：中共党员
 
-## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
+## <img src="./subResumepic/graduation-cap-solid.svg" width="30px"> 教育经历
 
-- 硕士，西北农林科技大学大学，计算机科学与技术专业，2023.9~2026.7
+- 硕士，西北农林科技大学大学，计算机科学与技术专业，2023.9至今
 - 学士，西北农林科技大学大学，软件工程专业，2019.9~2023.7
 - 绩点：3.63，年级前 20%
 - 通过了 CET4/6 英语等级考试
 
-## <img src="assets/briefcase-solid.svg" width="30px"> 竞赛经历
+## <img src="./subResumepic/briefcase-solid.svg" width="30px"> 获奖经历
 
 - 中国研究生数学建模竞赛三等奖，组长  2024.11
 - 团体程序设计天梯赛全国总决赛二等奖 2022
@@ -53,7 +38,7 @@
 - ACM ICPC 陕西省程序设计竞赛铜牌  2021
 - 学年专业二等奖学金  2020-2021
 
-## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
+## <img src="./subResumepic/project-diagram-solid.svg" width="30px"> 项目经历
 
 - 点云表面曲线网络构建方法研究 2025
 
@@ -67,7 +52,7 @@
 
 主要内容：基于kinect相机和SLAM方法实现三维地图的实时重建，主要是SLAM方法的学习和linux下的环境搭建。
 
-## <img src="assets/tools-solid.svg" width="30px"> 技能清单
+## <img src="./subResumepic/tools-solid.svg" width="30px"> 技能清单
 
 - ★★★ C++，Python，PCL
 - ★★★ OpenGL
@@ -77,6 +62,4 @@
 
 
 
-
-
-<!-- 标签logo <link rel="icon" href="https://qipaifeiying.oss-cn-beijing.aliyuncs.com/%E5%9B%BE%E7%89%87/202409261801708.jpg" type="image/jpg"> -->
+<!-- 标签logo <link rel="icon" href="https://qipaifeiying.oss-cn-beijing.aliyuncs.com/%E5%9B%BE%E7%89%87/202409261801708.jpg" type="image/jpg"> 放在html文件title标签后面head标签前面 -->
