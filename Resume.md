@@ -1,34 +1,19 @@
-
-
-
-
-<center>
-     <h1>邵衎杰</h1>
-     <div>
-         <span>
-             <img src="assets/phone-solid.svg" width="18px">
-             18831255593
-         </span>
-         ·
-         <span>
-             <img src="assets/envelope-solid.svg" width="18px">
-             <a href="mailto:kanjieshao@qq.com">kanjieshao@qq.com</a>
-         </span>
-         ·
-         <span>
-             <img src="assets/github-brands.svg" width="18px">
-             <a href="https://github.com/qipaifeiying">qipaifeiying</a>
-         </span>
-         ·
-         <span>
-             <img src="assets/house-solid.svg" width="18px">
-             <a href="https://blog.csdn.net/qq_45488453?spm=1000.2115.3001.5343">个人博客</a>
-         </span>
-     </div>
- </center>
-
-
-
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <!-- 左侧部分 -->
+  <div style="flex: 1; display: flex; flex-direction: column; justify-content: center; align-items: center;">
+    <h1>邵衎杰</h1>
+    <div>
+      <span><img src="assets/phone-solid.svg" width="18px">18831255593</span> ·
+      <span><img src="assets/envelope-solid.svg" width="18px"><a href="mailto:kanjieshao@qq.com">kanjieshao@qq.com</a></span> ·
+      <span><img src="assets/gitee-svgrepo-com.svg" width="18px"><a href="https://gitee.com/qipai-feiying">qipaifeiying</a></span> ·
+      <span><img src="assets/house-solid.svg" width="18px"><a href="https://blog.csdn.net/qq_45488453">个人博客</a></span>
+    </div>
+  </div>
+  <!-- 右侧照片 -->
+  <div>
+    <img src="assets/skj.jpg" width="100px">
+  </div>
+</div>
 
 
  ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
@@ -56,20 +41,27 @@
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
 
 - 点云表面曲线网络构建方法研究 2025
+
+主要内容：构建点云表面符号距离场，抽取等值线，沿等值线梯度方向生成与等值线正交曲线构成点云表面网络，便于后续的三维表面模型重建等下游应用。
+
 - [基于Qt和OpenGL实现的点云符号距离场可视化](https://gitee.com/qipai-feiying/graduation-project/tree/master)及使用MarchingCube进行表面重建  2023年
+
+主要内容：根据表面点云构建三维空间中的符号距离场，使用Qt和OpenGL将结果可视化，并实现点云的平移旋转选点等用户交互，基于生成的符号距离场使用MarchingCube方法提取等值面，实现表面重建。
+
 - 校级创新项目（含软著）:基于kinect的NAO机器人 Visual-SLAM和室内导航研究，组长  2021年
+
+主要内容：基于kinect相机和SLAM方法实现三维地图的实时重建，主要是SLAM方法的学习和linux下的环境搭建。
+
 - [校内实习项目：基于深度学习的人脸识别项目]( https://gitee.com/qipai-feiying/works/tree/master/院企实训/yolov3识别项目)，采用了游戏中人物建模作为训练数据集，识别一段游戏CG中的人脸 2022年
 - 修复一个PCL库的bug，并提交PR  2024年
 
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
-- ★★★ C++、Python
+- ★★★ C++，Python，PCL
 - ★★★ OpenGL
-- ★★☆ 点云处理库：PCL，Open3D，CGAL，pymesh
+- ★★☆ 点云处理库：Open3D，CGAL，pymesh
 - ★★☆ 其它 Git，LaTeX，Linux，Docker，Qt
 - ★☆☆ UE5
-
-
 
 
 
