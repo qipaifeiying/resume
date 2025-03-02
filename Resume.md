@@ -62,6 +62,15 @@
 - ★★☆ 其它 Git，LaTeX，Linux，Docker，Qt
 - ★☆☆ UE5
 
+## <img src="assets/tools-solid.svg" width="30px"> 技能清单
+
+- 熟悉C++，Python语法，研究生期间大部分三维数据处理基于这两种语言实现
+- 熟练使用PCL库，阅读过PCL部分源码，为PCL库修复bug提交PR被接受
+- 有OpenGL开发经验，与Qt结合开发的经历，对shader编写及渲染管线有详细了解
+- 对Open3D，CGAL，pymesh图形处理库和工具有使用经验
+- 对Git，LaTeX，Linux，Docker等工具有使用经历
+- 有UE5学习经历
+
 
 
 <!-- 标签logo <link rel="icon" href="https://qipaifeiying.oss-cn-beijing.aliyuncs.com/%E5%9B%BE%E7%89%87/202409261801708.jpg" type="image/jpg"> 放在html文件title标签后面head标签前面 -->
